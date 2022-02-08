@@ -1,1 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans:wght@400;700&display=swap');
+@import url(../vendor/normalize.css);
+@import url(../blocks/root/root.css);
+@import url(../blocks/container/container.css);
 @import url(../blocks/header/header.css);
+@import url(../blocks/header/__block/header__block.css);
+@import url(../blocks/logo/logo.css);
+@import url(../blocks/logo/__background/logo__background.css);
+@import url(../blocks/batton/batton.css);
+@import url(../blocks/batton/_prem/batton_prem.css);
+@import url(../blocks/menu/menu.css);
+@import url(../blocks/menu/__link/menu__link.css);
+@import url(../blocks/menu/__links/menu__links.css);
+@import url(../blocks/shearch/shearch.css);
+@import url(../blocks/page/page.css);
+@import url(../blocks/info/info.css);
+@import url(../blocks/content/content.css);
+@import url(../blocks/aside/aside.css);
+@import url(../blocks/side-bar/side-bar.css);
+@import url(../blocks/footer/footer.css);
+
+/* @import url(../blocks); */

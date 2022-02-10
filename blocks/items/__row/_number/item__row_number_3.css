@@ -1,0 +1,6 @@
+.item__row_number_3 {
+  grid-row: 1 / 2;
+  grid-column: 3 / 4;
+  background: url(../../../../images/premium/premium_audi.png);
+  height: 265px;
+}

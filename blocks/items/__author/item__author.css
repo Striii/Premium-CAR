@@ -1,0 +1,10 @@
+.item__author {
+  position: absolute;
+  bottom: 100px;
+  left: 20px;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 18px;
+  color: #fff;
+  text-align: left;
+}

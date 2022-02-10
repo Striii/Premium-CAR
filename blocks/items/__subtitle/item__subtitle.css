@@ -1,0 +1,11 @@
+.item__subtitle {
+  position: absolute;
+  bottom: 20px;
+  left: 20px;
+  width: 363px;
+  color: #fff;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 30px;
+  text-align: left;
+}

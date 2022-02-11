@@ -9,6 +9,7 @@
 @import url(../blocks/logo/__btn/logo__btn.css);
 @import url(../blocks/button/button.css);
 @import url(../blocks/button/_place/button_place_info.css);
+@import url(../blocks/button/_place/button_place_content.css);
 @import url(../blocks/batton/_prem/batton_prem.css);
 @import url(../blocks/menu/menu.css);
 @import url(../blocks/menu/__link/menu__link.css);
@@ -26,9 +27,21 @@
 @import url(../blocks/items/__title/item__title.css);
 @import url(../blocks/items/__subtitle/item__subtitle.css);
 @import url(../blocks/items/__author/item__author.css);
+@import url(../blocks/wrapper-csb/wrapper-csb.css);
 @import url(../blocks/content/content.css);
-@import url(../blocks/aside/aside.css);
+@import url(../blocks/card/card.css);
+@import url(../blocks/card/__item/card__item.css);
+@import url(../blocks/card/__author/card__author.css);
+@import url(../blocks/card/__descr/card__descr.css);
+@import url(../blocks/card/__title/card__title.css);
+@import url(../blocks/card/__text/card__text.css);
+@import url(../blocks/card/__item/_number/card__item_number_1.css);
+@import url(../blocks/card/__item/_number/card__item_number_2.css);
+@import url(../blocks/card/__item/_number/card__item_number_3.css);
+@import url(../blocks/card/__item/_number/card__item_number_4.css);
+@import url(../blocks/card/__item/_number/card__item_number_5.css);
 @import url(../blocks/side-bar/side-bar.css);
+@import url(../blocks/aside/aside.css);
 @import url(../blocks/footer/footer.css);
 
 /* @import url(../blocks); */

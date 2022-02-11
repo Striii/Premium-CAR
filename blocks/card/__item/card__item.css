@@ -5,9 +5,10 @@
   width: 770px;
 }
 
-.card__item:first-child {
+
+/* .card__item:first-child {
   margin-top: 80px;
-}
+} */
 
 .card__item:last-child {
   margin-bottom: 0;

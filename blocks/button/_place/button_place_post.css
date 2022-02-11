@@ -1,0 +1,13 @@
+.button_place_post {
+  position: absolute;
+  top: 41px;
+  left: 20px;
+  height: 22px;
+  width: 62px;
+  border-radius: 3px;
+  background: #4A90E2;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 16px;
+  color: #fff;
+}

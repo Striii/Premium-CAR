@@ -1,0 +1,8 @@
+.instagram__images {
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
+
+.instagram__images:nth-child(2n) {
+  margin-right: 0px;
+}

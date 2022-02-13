@@ -1,0 +1,8 @@
+.instagram__img {
+  list-style: none;
+  padding-left: 0;
+  margin: 0;
+  display: flex;
+  flex-wrap: wrap;
+  line-height: 0;
+}

@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=PT+Sans:wght@400;700&display=swap');
-@import url('../pages/font-awesome.css');
+@import url('../fonts/font-awesome.css');
 @import url(../vendor/normalize.css);
 @import url(../blocks/root/root.css);
 @import url(../blocks/container/container.css);
@@ -60,6 +60,9 @@
 @import url(../blocks/instagram/__img/instagram__img.css);
 @import url(../blocks/instagram/__images/instagram__images.css);
 @import url(../blocks/icons/icons.css);
+@import url(../blocks/tags/tags.css);
+@import url(../blocks/tags/__items/tags__items.css);
+@import url(../blocks/tags/__item/tags__item.css);
 @import url(../blocks/aside/aside.css);
 @import url(../blocks/footer/footer.css);
 

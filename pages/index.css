@@ -14,7 +14,7 @@
 @import url(../blocks/button/_place/button_place_side-bar.css);
 @import url(../blocks/button/_place/button_place_post.css);
 @import url(../blocks/button/_place/button_place_instagram.css);
-@import url(../blocks/button/_place/button_place_instagram.css);
+@import url(../blocks/button/_place/button_place_contacts.css);
 @import url(../blocks/batton/_prem/batton_prem.css);
 @import url(../blocks/menu/menu.css);
 @import url(../blocks/menu/__link/menu__link.css);
@@ -63,6 +63,9 @@
 @import url(../blocks/tags/tags.css);
 @import url(../blocks/tags/__items/tags__items.css);
 @import url(../blocks/tags/__item/tags__item.css);
+@import url(../blocks/contacts/contacts.css);
+@import url(../blocks/contacts/__info/contacts__info.css);
+@import url(../blocks/contacts/__forms/contacts__forms.css);
 @import url(../blocks/aside/aside.css);
 @import url(../blocks/footer/footer.css);
 

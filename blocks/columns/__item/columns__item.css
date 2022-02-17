@@ -1,0 +1,6 @@
+.columns__item {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  margin-bottom: 25px;
+}
